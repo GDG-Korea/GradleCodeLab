@@ -13,6 +13,6 @@ AndroidStudio 를 사용한다면 Gradle Wrapper 를 이용하고 자동으로 l
 ====
 ####도움이 될만한 곳들
 
-- [Android New Build System - http://tools.android.com/tech-docs/new-build-system](http://tools.android.com/tech-docs/new-build-system)
-- [Gradle Android Plugin User Guide - http://tools.android.com/tech-docs/new-build-system/user-guide](http://tools.android.com/tech-docs/new-build-system/user-guide)
-- [권남 Gradle - http://kwonnam.pe.kr/wiki/gradle](http://kwonnam.pe.kr/wiki/gradle)
+- Android New Build System - [http://tools.android.com/tech-docs/new-build-system](http://tools.android.com/tech-docs/new-build-system)
+- Gradle Android Plugin User Guide - [http://tools.android.com/tech-docs/new-build-system/user-guide](http://tools.android.com/tech-docs/new-build-system/user-guide)
+- 권남 Gradle - [http://kwonnam.pe.kr/wiki/gradle](http://kwonnam.pe.kr/wiki/gradle)
