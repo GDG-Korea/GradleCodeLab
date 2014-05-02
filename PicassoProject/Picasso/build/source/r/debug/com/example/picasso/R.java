@@ -28,12 +28,13 @@ public final class R {
         public static final int button_selector=0x7f020005;
         public static final int contact_picture_placeholder=0x7f020006;
         public static final int error=0x7f020007;
-        public static final int list_focused=0x7f020008;
-        public static final int list_pressed=0x7f020009;
-        public static final int list_selector=0x7f02000a;
-        public static final int list_selector_disabled=0x7f02000b;
-        public static final int overlay_selector=0x7f02000c;
-        public static final int placeholder=0x7f02000d;
+        public static final int icon=0x7f020008;
+        public static final int list_focused=0x7f020009;
+        public static final int list_pressed=0x7f02000a;
+        public static final int list_selector=0x7f02000b;
+        public static final int list_selector_disabled=0x7f02000c;
+        public static final int overlay_selector=0x7f02000d;
+        public static final int placeholder=0x7f02000e;
     }
     public static final class id {
         public static final int activity_list=0x7f090001;

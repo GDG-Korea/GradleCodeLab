@@ -14,7 +14,7 @@
   <!-- Used to load images for contact photos. -->
   <uses-permission android:name="android.permission.READ_CONTACTS"/>
 
-  <application android:label="@string/app_name" android:theme="@style/Theme.PicassoSample">
+  <application android:icon="@drawable/icon" android:label="@string/app_name" android:theme="@style/Theme.PicassoSample">
 
     <activity android:label="@string/app_name" android:name="com.example.picasso.SampleGridViewActivity">
       <intent-filter>

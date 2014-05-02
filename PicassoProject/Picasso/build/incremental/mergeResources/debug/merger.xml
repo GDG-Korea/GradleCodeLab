@@ -149,6 +149,11 @@
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
+                name="icon"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/icon.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
                 name="list_focused"
                 path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/list_focused.9.png"
                 qualifiers="xhdpi"
