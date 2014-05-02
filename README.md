@@ -9,3 +9,10 @@ AndroidStudio 를 사용한다면 Gradle Wrapper 를 이용하고 자동으로 l
 ###Gradle 설치 및 환경변수 설정
 1. Gradle 다운로드 [http://www.gradle.org/downloads](http://www.gradle.org/downloads)
 2. 압축을 해제 하고 해제한 디렉토리를 GRADLE_HOME 으로 환경변수 설정 PATH 에 GRADLE_HOME/bin 추가
+
+====
+####도움이 될만한 곳들
+
+- [Android New Build System - http://tools.android.com/tech-docs/new-build-system](http://tools.android.com/tech-docs/new-build-system)
+- [Gradle Android Plugin User Guide - http://tools.android.com/tech-docs/new-build-system/user-guide](http://tools.android.com/tech-docs/new-build-system/user-guide)
+- [권남 Gradle - http://kwonnam.pe.kr/wiki/gradle](http://kwonnam.pe.kr/wiki/gradle)
