@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res" >
+            <file
+                name="button_selector"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable/button_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="error"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable/error.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable/list_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="overlay_selector"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable/overlay_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="placeholder"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable/placeholder.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_disabled"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-hdpi/button_disabled.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_disabled_focused"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-hdpi/button_disabled_focused.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_focused"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-hdpi/button_focused.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_normal"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-hdpi/button_normal.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_pressed"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-hdpi/button_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contact_picture_placeholder"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-hdpi/contact_picture_placeholder.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_focused"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-hdpi/list_focused.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_pressed"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-hdpi/list_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_selector_disabled"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-hdpi/list_selector_disabled.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_disabled"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-mdpi/button_disabled.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="button_disabled_focused"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-mdpi/button_disabled_focused.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="button_focused"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-mdpi/button_focused.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="button_normal"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-mdpi/button_normal.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="button_pressed"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-mdpi/button_pressed.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contact_picture_placeholder"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-mdpi/contact_picture_placeholder.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_focused"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-mdpi/list_focused.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_pressed"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-mdpi/list_pressed.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_selector_disabled"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-mdpi/list_selector_disabled.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="button_disabled"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/button_disabled.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="button_disabled_focused"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/button_disabled_focused.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="button_focused"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/button_focused.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="button_normal"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/button_normal.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="button_pressed"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/button_pressed.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contact_picture_placeholder"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/contact_picture_placeholder.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_focused"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/list_focused.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_pressed"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/list_pressed.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_selector_disabled"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/drawable-xhdpi/list_selector_disabled.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="picasso_sample_activity"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/layout/picasso_sample_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="picasso_sample_activity_item"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/layout/picasso_sample_activity_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sample_contacts_activity"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/layout/sample_contacts_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sample_contacts_activity_item"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/layout/sample_contacts_activity_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sample_gallery_activity"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/layout/sample_gallery_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sample_gridview_activity"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/layout/sample_gridview_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sample_list_detail_detail"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/layout/sample_list_detail_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sample_list_detail_item"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/layout/sample_list_detail_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sample_list_detail_list"
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/layout/sample_list_detail_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="overlay_selector_pressed" >#40000000
+                </color>
+                <color name="window_background" >#ff202020
+                </color>
+                <color name="list_divider" >#ff555555
+                </color>
+            </file>
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="list_detail_image_size" >60dp
+                </dimen>
+                <dimen name="faux_action_bar_size" >48dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values/integers.xml"
+                qualifiers="" >
+                <integer name="column_count" >
+2
+                </integer>
+            </file>
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="hide" >HIDE
+                </string>
+                <string name="more" >MORE
+                </string>
+                <string name="app_name" >Picasso Samples
+                </string>
+                <string name="disk_cache_description" >On Ice Cream Sandwich and above, a disk cache is
+    automatically used so that subsequent requests for the same URL do not re-download the
+    image.\n\nTo enable this functionality on pre-ICS use a standalone HTTP client with caching such
+    as OkHttp.
+                </string>
+                <string name="select_picture" >Select Picture
+                </string>
+            </file>
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="Widget.PicassoSample.ListView"
+                    parent="android:Widget.ListView" >
+                    <item name="android:listSelector">
+@drawable/list_selector
+                    </item>
+                    <item name="android:divider">
+@color/list_divider
+                    </item>
+                </style>
+
+                <style
+                    name="Widget.PicassoSample.ActionBarButton"
+                    parent="android:Widget.Button" >
+                    <item name="android:gravity">
+center_vertical
+                    </item>
+                    <item name="android:paddingLeft">
+16dp
+                    </item>
+                    <item name="android:paddingRight">
+16dp
+                    </item>
+                    <item name="android:textColor">
+#ffffffff
+                    </item>
+                    <!-- Use 'dp' so that the user's font preference doesn't affect the action bar. -->
+                    <item name="android:textSize">
+13dp
+                    </item>
+                    <item name="android:background">
+@drawable/overlay_selector
+                    </item>
+                </style>
+
+                <style
+                    name="Widget.PicassoSample.ActionBarTitle"
+                    parent="android:Widget.TextView" >
+                    <item name="android:paddingLeft">
+8dp
+                    </item>
+                    <item name="android:paddingRight">
+8dp
+                    </item>
+                    <!-- Use 'dp' so that the user's font preference doesn't affect the action bar. -->
+                    <item name="android:textSize">
+19dp
+                    </item>
+                    <item name="android:textColor">
+#ffffffff
+                    </item>
+                    <item name="android:gravity">
+center_vertical
+                    </item>
+                    <item name="android:singleLine">
+true
+                    </item>
+                    <item name="android:ellipsize">
+end
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif-light
+                    </item>
+                    <item name="android:textStyle">
+italic
+                    </item>
+                </style>
+
+                <style
+                    name="Widget.PicassoSample.DescriptionText"
+                    parent="android:Widget.TextView" >
+                    <item name="android:textSize">
+12sp
+                    </item>
+                </style>
+
+                <style
+                    name="Widget.PicassoSample.ListItem"
+                    parent="android:Widget.TextView" >
+                    <item name="android:minHeight">
+50dp
+                    </item>
+                    <item name="android:padding">
+12dp
+                    </item>
+                    <item name="android:gravity">
+left|center_vertical
+                    </item>
+                    <item name="android:textSize">
+16sp
+                    </item>
+                    <item name="android:textColor">
+#ffffffff
+                    </item>
+                </style>
+
+                <style
+                    name="Widget.PicassoSample.DescriptionUrl"
+                    parent="android:Widget.TextView" >
+                    <item name="android:textSize">
+15sp
+                    </item>
+                </style>
+
+                <style
+                    name="Widget.PicassoSample.Overlay"
+                    parent="android:Widget" >
+                    <item name="android:background">
+#90000000
+                    </item>
+                </style>
+
+                <style
+                    name="Widget.PicassoSample.Button"
+                    parent="android:Widget.Button" >
+                    <item name="android:background">
+@drawable/button_selector
+                    </item>
+                    <item name="android:minHeight">
+48dip
+                    </item>
+                    <item name="android:minWidth">
+64dip
+                    </item>
+                    <item name="android:textColor">
+#000000
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values/themes.xml"
+                qualifiers="" >
+
+                <style
+                    name="Theme.PicassoSample"
+                    parent="android:Theme.NoTitleBar" >
+                    <item name="android:windowBackground">
+@color/window_background
+                    </item>
+                    <item name="android:buttonStyle">
+@style/Widget.PicassoSample.Button
+                    </item>
+                    <item name="android:listViewStyle">
+@style/Widget.PicassoSample.ListView
+                    </item>
+                    <item name="android:textColor">
+#ffe0e0e0
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values-land/dimens.xml"
+                qualifiers="land" >
+                <dimen name="faux_action_bar_size" >40dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values-w500dp/integers.xml"
+                qualifiers="w500dp" >
+                <integer name="column_count" >
+3
+                </integer>
+            </file>
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values-w600dp/dimens.xml"
+                qualifiers="w600dp" >
+                <dimen name="faux_action_bar_size" >56dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values-w600dp/integers.xml"
+                qualifiers="w600dp" >
+                <integer name="column_count" >
+4
+                </integer>
+            </file>
+            <file
+                path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/main/res/values-w700dp/integers.xml"
+                qualifiers="w700dp" >
+                <integer name="column_count" >
+5
+                </integer>
+            </file>
+        </source>
+        <source path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/build/res/rs/debug" />
+        <source path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/hl5pma/android/GradleCodeLab/PicassoProject/Picasso/src/debug/res" />
+    </dataSet>
+
+</merger>
