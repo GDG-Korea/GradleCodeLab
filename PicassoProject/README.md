@@ -97,9 +97,9 @@ gradle.properties 를 만들어 속성 참조
         signingConfigs {
             codelabConfig {
                 storeFile file(System.console().readLine('storeFile: '))
-                storePassword new String((System.console().readPassword('storePassword: '))
-                keyAlias System.console().readLine('storeFile: ')
-                keyPassword new String((System.console().readPassword('keyPassword: '))
+                storePassword new String(System.console().readPassword('storePassword: '))
+                keyAlias System.console().readLine('keyAlias: ')
+                keyPassword new String(System.console().readPassword('keyPassword: '))
             }
         }
         
