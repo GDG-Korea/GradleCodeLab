@@ -46,7 +46,7 @@ ApiDemos 프로젝트 루트 디렉토리 아래에 build.gradle 파일을 생�
 
 ###Android Support-v4 라이브러리 의존성 설정
 
-    ependencies {
+    dependencies {
         compile 'com.android.support:support-v4:19.0.+'
     }
     
@@ -59,3 +59,31 @@ ApiDemos 프로젝트 루트 디렉토리 아래에 build.gradle 파일을 생�
         }
         
     }
+
+###안드로이드 SDK 경로 설정
+
+안드로이드 빌드를 위해 다음 중 한 가지 방법을 사용하여 안드로이드 SDK 경로를 설정해야 합니다. 이 항목을 설정하지 않으면 다음과 같은 에러 메시지가 표시됩니다.
+
+    FAILURE: Build failed with an exception.
+
+    * What went wrong:
+    A problem occurred configuring root project 'ApiDemos'.
+    > SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable.
+
+####local.properties 사용
+프로젝트 루트 경로에 `local.properties` 를 생성한 후, 아래와 같이 안드로이드 SDK가 설치된 경로를 입력합니다.
+
+    sdk.dir=[안드로이드 SDK가 설치된 경로]
+
+예시 :  
+    
+    sdk.dir=/Users/kunny/android-sdk-macosx
+
+####ANDROID_HOME 환경변수 설정
+위 방법 외에, 환경 변수의 `ANDROID_HOME`에 안드로이드 SDK의 경로를 설정하면 `local.properties` 파일 없이 사용할 수 있습니다.
+
+예시 :
+
+    export ANDROID_HOME=/Users/kunny/android-sdk-macosx
+
+
