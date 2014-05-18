@@ -50,6 +50,11 @@ main/java/com/example/picasso/Data.java 을 picasso/java/com/example/picasso/Dat
         }
 
     }
+    
+### 앱 실행하기
+
+    gradle assemblePicasso
+    gradle assembleGogh
 
 ###앱 서명 하기
 
