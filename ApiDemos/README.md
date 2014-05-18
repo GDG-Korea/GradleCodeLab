@@ -46,7 +46,7 @@ ApiDemos 프로젝트 루트 디렉토리 아래에 build.gradle 파일을 생�
 
 ###Android Support-v4 라이브러리 의존성 설정
 
-    ependencies {
+    dependencies {
         compile 'com.android.support:support-v4:19.0.+'
     }
     
