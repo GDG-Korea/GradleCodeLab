@@ -29,7 +29,7 @@ ApiDemos 프로젝트 루트 디렉토리 아래에 build.gradle 파일을 생�
 ###매니페스트, 소스코드, 리소스 디렉토리 설정
 
     android {
-        
+        ...
         sourceSets {
             main {
                 manifest.srcFile 'AndroidManifest.xml'
@@ -46,16 +46,23 @@ ApiDemos 프로젝트 루트 디렉토리 아래에 build.gradle 파일을 생�
 
 ###Android Support-v4 라이브러리 의존성 설정
 
-    dependencies {
-        compile 'com.android.support:support-v4:19.0.+'
+    android {
+        ...
+        dependencies {
+            compile 'com.android.support:support-v4:19.0.+'
+        }
     }
     
 ###lint 에러 무시
 
     android {
-        
+        ....
         lintOptions {
             abortOnError false
         }
         
     }
+
+###빌드
+
+`gradle build`를 수행해봅니다.
